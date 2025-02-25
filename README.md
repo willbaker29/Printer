@@ -1,11 +1,11 @@
 printer is a creality ender 3v2 chassis.
 upgraded with the following:
 
-e3d hemera hotend
+  * e3d hemera hotend
 
-linear rails on x axis
+  * linear rails on x axis
 
-dual motor z axis, independently controlled to allow gantry levelling function
+  * dual motor z axis, independently controlled to allow gantry levelling function
 
 bltouch for bed mesh and z stop
 
