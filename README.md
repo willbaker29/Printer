@@ -9,7 +9,7 @@ dual motor z axis, independently controlled to allow gantry levelling function
 
 bltouch for bed mesh and z stop
 
-bigtreetech octopus pro mainboard
+bigtreetech octopus pro mainboard 
 
 raspberry pi running mainsail os, with camera
 
@@ -19,3 +19,14 @@ to configure z offset, in printer.cfg, uncomment z-offset under [bltouch], then 
 using cura as a slicer, there is a slicer configuration file for PLA
 
 if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is free. 
+
+
+Todo:
+
+print enclosure for motherboard. 
+
+print enclosure for pi
+
+power pi directly from mainboard
+
+led lights (wiring already in place)
