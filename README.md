@@ -16,9 +16,9 @@ upgraded with the following:
 
 to configure z offset, in printer.cfg, uncomment z-offset under [bltouch], then delete corresponding zoffset lines at bottom, under 'save_config'
 
-using cura as a slicer, there is a slicer configuration file for PLA
+using cura as a slicer, there is a slicer configuration file for PLA https://ultimaker.com/software/ultimaker-cura/
 
-if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is free. 
+if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is free. https://www.autodesk.com/products/fusion-360/personal
 
 
 Todo:
