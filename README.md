@@ -23,7 +23,7 @@ if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is fre
 
 Todo:
 
-  * print enclosure for motherboard. 
+  * print enclosure for motherboard. https://www.thingiverse.com/thing:5323538
 
   * print enclosure for pi
 
