@@ -11,4 +11,7 @@ bltouch for bed mesh and z stop
 
 bigtreetech octopus pro mainboard
 
+raspberry pi running mainsail os, with camera
+
+
 to configure z offset, in printer.cfg, uncomment z-offset under [bltouch], then delete corresponding zoffset lines at bottom, under 'save_config'
