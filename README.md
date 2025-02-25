@@ -7,11 +7,11 @@ upgraded with the following:
 
   * dual motor z axis, independently controlled to allow gantry levelling function
 
-bltouch for bed mesh and z stop
+  * bltouch for bed mesh and z stop
 
-bigtreetech octopus pro mainboard 
+  * bigtreetech octopus pro mainboard 
 
-raspberry pi running mainsail os, with camera
+  * raspberry pi running mainsail os, with camera
 
 
 to configure z offset, in printer.cfg, uncomment z-offset under [bltouch], then delete corresponding zoffset lines at bottom, under 'save_config'
@@ -23,10 +23,10 @@ if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is fre
 
 Todo:
 
-print enclosure for motherboard. 
+  * print enclosure for motherboard. 
 
-print enclosure for pi
+  * print enclosure for pi
 
-power pi directly from mainboard
+  * power pi directly from mainboard
 
-led lights (wiring already in place)
+  * led lights (wiring already in place)
