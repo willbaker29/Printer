@@ -23,6 +23,12 @@ using cura as a slicer, there is a slicer profile included in the files
 if you want a 3d cad program, fusion 360 is perfect. the hobbyist licence is free. 
   https://www.autodesk.com/products/fusion-360/personal
 
+gcode file included which should print out of the box
+
+remember to heat the hot end up to 190-220 before you try feeding filament into it.
+
+It probably wont do anything until you home the axis, and then bed mesh will need to be performed
+
 
 Todo:
 
