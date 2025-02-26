@@ -29,6 +29,12 @@ remember to heat the hot end up to 190-220 before you try feeding filament into 
 
 It probably wont do anything until you home the axis, and then bed mesh will need to be performed
 
+gcode file included which should print out of the box
+
+remember to heat the hot end up to 190-220 before you try feeding filament into it.
+
+It probably wont do anything until you home the axis, and then bed mesh will need to be performed
+
 
 Todo:
 
